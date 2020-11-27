@@ -1,0 +1,62 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+/* Első Feladat stílusai */
+/*---------------------------------------------*/
+
+h1{
+  margin: 10px 0 10px 0;
+}
+
+.elso{
+  margin-left: 32px;
+  font-variant: small-caps;
+}
+
+.masodik{
+  text-decoration: underline;
+}
+
+.harmadik{
+  font-size: 20px;
+}
+
+.negyedik{
+  color: #800080;
+}
+
+.otodik{
+  font-style: italic;
+}
+
+.hatodik{
+  font-family: cursive;
+}
+
+.utolso{
+  text-shadow: 1px 2px;
+}
+
+
+/* Második Feladat stílusai */
+/*---------------------------------------------*/
+
+span.elso2{
+  font-size: 24px;
+}
+
+span.elso3{
+  text-decoration: underline;
+}
+
+span.haromnegy{
+  text-decoration: line-through;
+  color: yellow;
+}
+
+span.negyedik2{
+  background-color: blue;
+  color: white;
+}
